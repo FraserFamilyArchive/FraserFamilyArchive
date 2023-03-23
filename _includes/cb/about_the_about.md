@@ -85,6 +85,11 @@ Born in 1889 to William Stuart Snr. and Emily Stuart nee Grey, he died in 1956.
 His half-sister was Alice Louise Horwood nee Toone. He never married. 
  
  {% include feature/button.html text="Items with this Tag" link="https://fraserfamilyarchive.github.io/FraserFamilyArchive/browse.html#george%20toone" color="success" %}
+
+#### Graves
+Items with this tag are photos of gravestones. 
+ 
+ {% include feature/button.html text="Items with this Tag" link="https://fraserfamilyarchive.github.io/FraserFamilyArchive/browse.html#Graves" color="success" %}
   
 #### Helen May Stuart
 Born in 1887 to William Stuart Snr. and Emily Stuart nee Grey. She died in 1965.
@@ -100,6 +105,11 @@ Born 1865 and died May 17, 1883. He was half-brother to Alice Louise Horwood nee
 Born January 21, 1874 in London England, he married Alice Louise Horwood nee Toone on July 10, 1901.Their children were Alice Ruth Hollingsworth nee Horwood, David Ernest Horwood, and Esther Alberta Louise Fraser nee Horwood. As a young man he left London and became a diamond miner in South Africa. He then was a soldier, receiving a medal from Queen Victoria in 1896. He received the medal for enforcing British Colonialism on the Matabele people in Rhodesia. The story goes that after his service, he came to Canada in 1903 having bought land in BC. When he arrived, the land was flooded so he instead moved to Wetaskiwin, Alberta, also in 1903. He went by ox team to Wavy Lake where he became postmaster. His wife and children came over after him in the fall of 1903. He also worked at a power plant, and ended up in charge of the CPR stockyards in South Edmonton. He died December 1, 1946 in Edmonton, Alberta, and was buried with his wife in Mount Pleasant Cemetery (Edmonton) in Section 0F, Block 0335, Plot 0001. 
  
  {% include feature/button.html text="Items with this Tag" link="https://fraserfamilyarchive.github.io/FraserFamilyArchive/browse.html#joseph%20ernest%20horwood" color="success" %}
+ 
+ #### Marion Ferrie Stuart nee Hodge
+Born in 1885, she married Robert B. Stuart in 1910 and they had 3 children, including Doris Marion Donner nee Stuart  and William “Willie” Stuart. She died in 1973, and was buried with him in the Innisfail Cemetery on Plot X under the memorial Id 122325981. 
+ 
+ {% include feature/button.html text="Items with this Tag" link="https://fraserfamilyarchive.github.io/FraserFamilyArchive/browse.html#Marion%20Ferrie%20Stuart%20nee%20Hodge" color="success" %}
   
 #### Newspaper Clippings
 Items with this tag are scans or photos of published newspaper articles regarding members of the family. 
@@ -112,7 +122,7 @@ Images with this tag contain identifiable photos of a person’s face.
  {% include feature/button.html text="Items with this Tag" link="https://fraserfamilyarchive.github.io/FraserFamilyArchive/browse.html#portraits" color="success" %}
   
 #### Robert B. Stuart
-Born in 1883 to William Stuart Snr. and Emily Stuart nee Grey. He married Marion Ferrie Stuart nee Hodge. They had 3 children, including Doris Marion Donner nee Stuart. He died in 1955. Him and Marion are buried together in the Innisfail Cemetery. 
+Born in 1883 to William Stuart Snr. and Emily Stuart nee Grey. He married Marion Ferrie Stuart nee Hodge in 1910. They had 3 children, including Doris Marion Donner nee Stuart and William “Willie” Stuart. He died in 1955. Him and Marion are buried together in the Innisfail Cemetery on Plot X under the memorial Id 122325981. 
  
  {% include feature/button.html text="Items with this Tag" link="https://fraserfamilyarchive.github.io/FraserFamilyArchive/browse.html#robert%20b.%20stuart" color="success" %}
   
