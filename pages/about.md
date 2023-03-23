@@ -14,14 +14,11 @@ credits: true
 
 ## About the Collection
 
-This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
+This archive includes photos, newspaper articles, stories, and documents on the history of the Fraser Family. It was built with the intention of making our history easily accessible to all family members.
 
-- a CSV of collection metadata
-- a folder of JPG images or PDF documents
+It was created by Simon Phypers as a final project for their diploma in Library Information Technology. 
 
-The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
-
-For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
+If you have any questions, noticed any errors, or have items or stories you wish to add to the archive, please reach out to simonphypers@gmail.com. 
 
 <!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
 {% include cb/about_the_about.md %} 
