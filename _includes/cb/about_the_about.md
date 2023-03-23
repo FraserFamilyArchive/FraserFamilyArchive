@@ -11,7 +11,7 @@
 
 
 #### Alex Fraser Buie
-{% include feature/button.html text="Items with this Tag" link="https://collectionbuilder.github.io/" color="success" %}
+{% include feature/button.html text="Items with this Tag" link="https://fraserfamilyarchive.github.io/FraserFamilyArchive/browse.html#alex%20fraser%20buie" color="success" %}
 
 #### Alexander Thomas Fraser
 Born August 5, 1879 in East River St. Mary’s, Nova Scotia. He married Helen May Stuart on August 21, 1912. 
