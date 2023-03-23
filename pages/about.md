@@ -10,7 +10,7 @@ credits: true
 
 {% include feature/jumbotron.html objectid="https://fraserfamilyarchive.github.io/FraserFamilyArchive/objects/Alex%20Fraser,%20At%20the%20opening%20of%20Drumheller%20bridge%20he%20engineered%20%20(standing%20by%20the%20rail%20with%20his%20back%20to%20the%20camera)..jpg" %}
 
-{% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
+{% include feature/nav-menu.html sections="About the Collection;Tag Descriptions" %}
 
 ## About the Collection
 
