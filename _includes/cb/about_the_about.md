@@ -88,8 +88,11 @@ This is the tag description list. It contains the authorized headings for name f
 {% include feature/button.html text="Button Link to Somewhere" link="https://collectionbuilder.github.io/" color="success" %}
 
 #### Alexander Thomas Fraser
-	Born August 5, 1879 in East River St. Mary’s, Nova Scotia. He married Helen May Stuart on August 21, 1912. His children were Hugh Stuart Fraser, Helen Wilson nee Fraser, Ruth Nelson nee Fraser, and Alexander Colin Fraser. He was an engineer (see Alexander Thomas Fraser - Bridges and Buildings). He died in July 1965 in Leduc, Alberta. 
-  {% include feature/button.html text="Button Link to Somewhere" link="https://collectionbuilder.github.io/" color="success" %}
+Born August 5, 1879 in East River St. Mary’s, Nova Scotia. He married Helen May Stuart on August 21, 1912. 
+His children were Hugh Stuart Fraser, Helen Wilson nee Fraser, Ruth Nelson nee Fraser, and Alexander Colin 
+Fraser. He was an engineer (see Alexander Thomas Fraser - Bridges and Buildings). He died in July 1965 in 
+Leduc, Alberta. 
+{% include feature/button.html text="Button Link to Somewhere" link="https://collectionbuilder.github.io/" color="success" %}
   
 #### Alexander Thomas Fraser - Bridges and Buildings
 	Alex Fraser worked as an engineer on many locations around Alberta. He was the engineer for the Alberta Legislature Building, the Drumheller Bridge, and more.
