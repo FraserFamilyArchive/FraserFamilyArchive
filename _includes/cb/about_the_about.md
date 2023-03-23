@@ -19,7 +19,7 @@ His children were Hugh Stuart Fraser, Helen Wilson nee Fraser, Ruth Nelson nee F
 Fraser. He was an engineer (see Alexander Thomas Fraser - Bridges and Buildings). He died in July 1965 in 
 Leduc, Alberta. 
 
-'{% include feature/button.html text="Items with this Tag" link="https://fraserfamilyarchive.github.io/FraserFamilyArchive/browse.html#alexander%20thomas%20fraser" color="success" %}'
+{% include feature/button.html text="Items with this Tag" link="https://fraserfamilyarchive.github.io/FraserFamilyArchive/browse.html#alexander%20thomas%20fraser" color="success" %}
   
 #### Alexander Thomas Fraser - Bridges and Buildings
 Alex Fraser worked as an engineer on many locations around Alberta. He was the engineer for the Alberta Legislature Building, the Drumheller Bridge, and more.
