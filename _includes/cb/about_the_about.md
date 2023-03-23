@@ -7,7 +7,7 @@
 {% assign audiosample = site.data[site.metadata] | where_exp: 'item','item.format contains "audio"' | first %}
 {% capture audiosampleid %}{{audiosample.objectid | default: "https://www.lib.uidaho.edu/digital/mp3s/Clouds.mp3"}}{% endcapture %}
 
-## Tag Descriptions and Controlled Vocabulary
+## Tag Descriptions
 
 
 #### Alex Fraser Buie
@@ -92,7 +92,7 @@ Born in 1887 to William Stuart Snr. and Emily Stuart nee Grey. She died in 1965.
  {% include feature/button.html text="Items with this Tag" link="https://collectionbuilder.github.io/" color="success" %}
   
 #### James Henry “Harry” Towlson
-Born 1865 and died May 17, 1883. He was half-brother to Alice Louise Horwood nee Toone [WAS HE FULL BROTHERS TO GEORGE TOONE?] He was an artist. He was of the Manor House in Barkby, England, and was buried in Syston Cemetery. 
+Born 1865 and died May 17, 1883. He was half-brother to Alice Louise Horwood nee Toone. He was an artist. He was of the Manor House in Barkby, England, and was buried in Syston Cemetery. 
  
  {% include feature/button.html text="Items with this Tag" link="https://collectionbuilder.github.io/" color="success" %}
   
