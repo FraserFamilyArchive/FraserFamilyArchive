@@ -18,7 +18,9 @@ This archive includes photos, newspaper articles, stories, and documents on the 
 
 It was created by Simon Phypers as a final project for their diploma in Library Information Technology. 
 
-If you have any questions, noticed any errors, or have items or stories you wish to add to the archive, please reach out to simonphypers@gmail.com. 
+If you have any questions, noticed any errors, have items you wish to add to the archive, or just have a comment please reach out to me at simonphypers@gmail.com. 
+
+I am particularly looking for information on fuller forms of names, scans of family trees, the identities of people in images tagged "unidentified persons," and anything else old you have. 
 
 <!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
 {% include cb/about_the_about.md %} 
