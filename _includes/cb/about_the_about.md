@@ -106,7 +106,7 @@ Born January 21, 1874 in London England, he married Alice Louise Horwood nee Too
  
  {% include feature/button.html text="Items with this Tag" link="https://fraserfamilyarchive.github.io/FraserFamilyArchive/browse.html#joseph%20ernest%20horwood" color="success" %}
  
- #### Marion Ferrie Stuart nee Hodge
+#### Marion Ferrie Stuart nee Hodge
 Born in Scotland in 1885, she married Robert B. Stuart in 1910 and they had 3 children, including Doris Marion Donner nee Stuart  and William “Willie” Stuart. She died in 1973, and was buried with him in the Innisfail Cemetery on Plot X under the memorial Id 122325981. 
  
  {% include feature/button.html text="Items with this Tag" link="https://fraserfamilyarchive.github.io/FraserFamilyArchive/browse.html#Marion%20Ferrie%20Stuart%20nee%20Hodge" color="success" %}
